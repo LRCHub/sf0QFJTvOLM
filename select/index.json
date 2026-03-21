@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "へび",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-01-13T19:17:00.197287Z",
+  "createdAt": "2026-03-21T13:44:02.392870Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -35,6 +35,15 @@
       "artist": "ヨルシカ",
       "has_synced": false,
       "path": "select/pl_01_へび_ヨルシカ.txt"
+    },
+    {
+      "id": "localdb_1",
+      "source": "localdb",
+      "title": "へび",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/localdb_01_へび_ヨルシカ.lrc",
+      "repo_name": "sf0QFJTvOLM"
     }
   ]
 }
