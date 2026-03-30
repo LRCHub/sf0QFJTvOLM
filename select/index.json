@@ -2,7 +2,7 @@
   "version": 1,
   "base_track": "へび",
   "base_artist": "ヨルシカ",
-  "createdAt": "2026-03-22T11:59:46.445946Z",
+  "createdAt": "2026-03-30T20:22:53.358369Z",
   "candidates": [
     {
       "id": "lrclib_1",
@@ -25,8 +25,24 @@
       "source": "lrclib",
       "title": "へび",
       "artist": "ヨルシカ",
+      "has_synced": false,
+      "path": "select/03_へび_ヨルシカ.txt"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "へび",
+      "artist": "ヨルシカ",
       "has_synced": true,
-      "path": "select/03_へび_ヨルシカ.lrc"
+      "path": "select/04_へび_ヨルシカ.lrc"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "へび",
+      "artist": "ヨルシカ",
+      "has_synced": true,
+      "path": "select/05_へび_ヨルシカ.lrc"
     },
     {
       "id": "petitlyrics_1",
